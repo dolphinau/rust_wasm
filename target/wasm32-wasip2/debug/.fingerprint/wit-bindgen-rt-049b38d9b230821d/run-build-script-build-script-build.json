@@ -1,1 +1,1 @@
-{"rustc":17937617449065195742,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[16963367136354579645,"build_script_build",false,14043929245170678488]],"local":[{"Precalculated":"0.36.0"}],"rustflags":[],"config":0,"compile_kind":0}
+{"rustc":12635947700186137988,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[16963367136354579645,"build_script_build",false,1060056471296147972]],"local":[{"Precalculated":"0.36.0"}],"rustflags":[],"config":0,"compile_kind":0}
