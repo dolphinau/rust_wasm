@@ -1,6 +1,6 @@
 {
   "name": "rust_wasm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Test rust wasm module - simple adder",
   "license": "ISC",
   "author": "dolphino",
