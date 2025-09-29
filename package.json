@@ -1,0 +1,12 @@
+{
+  "name": "rust_wasm",
+  "version": "0.1.0",
+  "description": "Test rust wasm module - simple adder",
+  "license": "ISC",
+  "author": "dolphino",
+  "type": "module",
+  "main": "rust_wasm.js",
+  "dependencies": {
+    "@bytecodealliance/jco": "^1.14.0"
+  }
+}
